@@ -20,3 +20,14 @@
 ### Party: Social Democratic Party of Germany
 ### Education: University of Hamburg (1978–1985)
 
+# ___________________________
+# person 3
+
+### Name : Narendra Damodardas Modi 
+### Age : 71 years
+### Born : September 17, 1950 (age 71 years), Vadnagar, India
+### Office : prime minister of India
+### Spouse : Jashodaben Modi (m. 1968)
+### Education : Gujarat University (1983), School of Open Learning, University of Delhi (1978)
+
+
